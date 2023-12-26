@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://graph.org/file/66e0fc2970bda9316dd95.jpg" alt="Vansh-Yadav">
+  <img src="https://telegra.ph/file/bc5949db585411cf19d3d.jpg" alt="Vansh-Yadav">
 </p>
 <h1 align="center">
   Vansh-Yadav
