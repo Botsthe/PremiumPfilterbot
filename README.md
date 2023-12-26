@@ -9,7 +9,7 @@
 </p>
 <b>All this codes are created by our developers 
 
-<a href='https://t.me/SHD_KHAN'>Vansh Yadav 👨‍💻</a>.</b>
+<a href='https://t.me/BOT_OWNER26'>Aman vishwakarma 👨‍💻</a>.</b>
 
 <b><u>
 we are nothing without your support please support us to bring more features in bot
