@@ -6,8 +6,8 @@ class script(object):
     HELP_TXT = """<b>Hᴇʀᴇ Is Tʜᴇ Hᴇʟᴘ Fᴏʀ Mʏ Cᴏᴍᴍᴀɴᴅs.</b>"""
  
     ABOUT_TXT = """
-<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/MoviesGalaxyfilter_bot">Mᴏᴠɪᴇs Gᴀʟᴀxʏ Bᴏᴛ</a>
-‣ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/EK4MPREETSINGH">⑅Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ⑅</a>
+<b>‣ ᴍʏ ɴᴀᴍᴇ : <a href="https://t.me/Latestmoviesupdates0">Mᴏᴠɪᴇs Gᴀʟᴀxʏ Bᴏᴛ</a>
+‣ ᴄʀᴇᴀᴛᴏʀ : <a href="https://t.me/BOT_OWNER26">⑅Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ⑅</a>
 ‣ ʟɪʙʀᴀʀʏ : <a href="https://pyrogram.org/">ᴘʏʀᴏɢʀᴀᴍ</a>
 ‣ ʟᴀɴɢᴜᴀɢᴇ : <a href="https://www.python.org/">ᴘʏᴛʜᴏɴ</a>
 ‣ ᴅᴀᴛᴀʙᴀꜱᴇ : <a href="https://www.mongodb.com/">ᴍᴏɴɢᴏ ᴅʙ</a>
@@ -92,7 +92,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
 𝟹. ʙᴜᴛᴛᴏɴꜱ ꜱʜᴏᴜʟᴅ ʙᴇ ᴘʀᴏᴘᴇʀʟʏ ᴘᴀʀꜱᴇᴅ ᴀꜱ ᴍᴀʀᴋᴅᴏᴡɴ ꜰᴏʀᴍᴀᴛ
 
 ᴜʀʟ ʙᴜᴛᴛᴏɴꜱ :
-<code>[Button Text](buttonurl:https://t.me/MoviesGalaxy120)</code>
+<code>[Button Text](buttonurl:https://t.me/Latestmoviesupdates0)</code>
 
 ᴀʟᴇʀᴛ ʙᴜᴛᴛᴏɴꜱ :
 <code>[Button Text](buttonalert:ᴛʜɪꜱ ɪꜱ ᴀɴ ᴀʟᴇʀᴛ ᴍᴇꜱꜱᴀɢᴇ)</code>"""
@@ -201,7 +201,7 @@ Hᴇʟᴘ : <b>Sᴇᴛᴛɪɴɢꜱ</b>
     OWNER_TXT = """<b>
 <----------------------->
 ᴏᴡɴᴇʀ ɴᴀᴍᴇ = Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ
-Pᴇʀᴍᴀɴᴇɴᴛ Dᴍ ʟɪɴᴋ = <a href="https://t.me/EK4MPREETSINGH">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
+Pᴇʀᴍᴀɴᴇɴᴛ Dᴍ ʟɪɴᴋ = <a href="https://t.me/BOT_OWNER26">ᴄʟɪᴄᴋ ʜᴇʀᴇ</a>
 <-----------------------></b>"""
 
     HUMAN_TXT = """<b>⚡ Gʀᴏᴜᴘ & ᴄʜᴀɴɴᴇʟs & ɪɴғᴏ ⚡
@@ -236,7 +236,7 @@ Nᴀᴍᴇ - {}</b>"""
 Mᴏᴠɪᴇs Nᴏᴛ Aᴠᴀɪʟᴀʙʟᴇ Rᴇᴀsᴏɴ:
 𝟷. ᴏ.ᴛ.ᴛ ᴏʀ ᴅᴠᴅ ɴᴏᴛ ʀᴇʟᴇᴀsᴇᴅ
 𝟸. ᴛʏᴘᴇ ɴᴀᴍᴇ ᴡɪᴛʜ ʏᴇᴀʀ
-𝟹. ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs @EK4MPREETSINGH</b>"""
+𝟹. ᴍᴏᴠɪᴇ ɪs ɴᴏᴛ ᴀᴠᴀɪʟᴀʙʟᴇ ɪɴ ᴛʜᴇ ᴅᴀᴛᴀʙᴀsᴇ ʀᴇᴘᴏʀᴛ ᴛᴏ ᴀᴅᴍɪɴs @BOT_OWNER26</b>"""
 
     I_CUD_NT = """<b>ɪ ᴄᴏᴜʟᴅɴ'ᴛ ꜰɪɴᴅ ᴀɴʏ ᴍᴏᴠɪᴇ ʀᴇʟᴀᴛᴇᴅ ᴛᴏ {}.
 ᴘʟᴇᴀꜱᴇ ᴄʜᴇᴄᴋ ᴛʜᴇ ꜱᴘᴇʟʟɪɴɢ ᴏɴ ɢᴏᴏɢʟᴇ ᴏʀ ɪᴍᴅʙ...</b>"""
@@ -289,9 +289,9 @@ Tʀᴀғɪᴄs = ● ● ● ● ◌ ◌ ◌ ◌ ◌ ◌"""
 ♅Fɪʟᴇ ɴᴀᴍᴇ: <b><font class=smcp>{file_name}</font></b>
 ♅Fɪʟᴇ sɪᴢᴇ: <b><font class=smcp>{file_size}</font></b>
 
-<b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/EK4MPREETSINGH">☘Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ</a>
-🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/MoviesGalaxy01">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
-🔰 Gʀᴏᴜᴘ : <a href="https://t.me/MoviesGalaxy120">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
+<b>🔰 Cʀᴇᴀᴛᴏʀ : <a href="https://t.me/BOT_OWNER26">☘Eᴋᴀᴍᴘʀᴇᴇᴛ Sɪɴɢʜ</a>
+🔰 Cʜᴀɴɴᴇʟ : <a href="https://t.me/Latestmoviesupdates0">𝐌𝐎𝐕𝐈𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋</a>
+🔰 Gʀᴏᴜᴘ : <a href="https://t.me/LootshopsLootshops">𝐌𝐎𝐕𝐈𝐄 𝐑𝐄𝐐𝐔𝐄𝐒𝐓 𝐆𝐑𝐎𝐔𝐏</a></b>"""
     
     IMDB_TEMPLATE_TXT = """
 <b>Query: {query}
