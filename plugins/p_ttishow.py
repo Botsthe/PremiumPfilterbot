@@ -9,7 +9,7 @@ from Script import script
 from pyrogram.errors import ChatAdminRequired
 import asyncio 
 
-"""-----------------------------------------https://t.me/Moviesofficialchannel0--------------------------------------"""
+"""-----------------------------------------https://t.me/TG_LINKS_CHANNEL--------------------------------------"""
 
 @Client.on_message(filters.new_chat_members & filters.group)
 async def save_group(bot, message):
@@ -38,7 +38,7 @@ async def save_group(bot, message):
             await bot.leave_chat(message.chat.id)
             return
         buttons = [[
-                    InlineKeyboardButton('🔸 ᴍᴇꜱꜱᴀɢᴇ ʜᴇʀᴇ 🔹', url="https://t.me/+cZGisR7lHeg1ZDdl")
+                    InlineKeyboardButton('🔸 ᴍᴇꜱꜱᴀɢᴇ ʜᴇʀᴇ 🔹', url="https://t.me/rtx_backup")
                  ],[
                     InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK),
                     InlineKeyboardButton('ɢʀᴏᴜᴘ', url=GRP_LNK)
@@ -61,7 +61,7 @@ async def save_group(bot, message):
                                                  caption=(script.MELCOW_ENG.format(u.mention, message.chat.title)),
                                                  reply_markup=InlineKeyboardMarkup(
                                                                          [[
-                    InlineKeyboardButton('🔸 ᴍᴇꜱꜱᴀɢᴇ ʜᴇʀᴇ 🔹', url="https://t.me/+cZGisR7lHeg1ZDdl")
+                    InlineKeyboardButton('🔸 ᴍᴇꜱꜱᴀɢᴇ ʜᴇʀᴇ 🔹', url="https://t.me/rtx_backup")
                  ],[
                     InlineKeyboardButton('ᴄʜᴀɴɴᴇʟ', url=CHNL_LNK),
                     InlineKeyboardButton('ɢʀᴏᴜᴘ', url=GRP_LNK)
@@ -89,10 +89,10 @@ async def leave_a_chat(bot, message):
         chat = chat
     try:
         buttons = [[
-            InlineKeyboardButton('Support', url=f'https://t.me/BOT_OWNER26')
-            InlineKeyboardButton('Owner', url="https://t.me/BOT_OWNER26")
+            InlineKeyboardButton('Support Group', url="https://t.me/rtx_backup"),
+            InlineKeyboardButton('Owner', url="https://t.me/None_090")
         ],[
-            InlineKeyboardButton('Use Me Here', url=f'https://t.me/+cZGisR7lHeg1ZDdl}')
+            InlineKeyboardButton('Use Me Here', url=f'https://t.me/{SUPPORT_CHAT}')
         ]]
         reply_markup=InlineKeyboardMarkup(buttons)
         await bot.send_message(
